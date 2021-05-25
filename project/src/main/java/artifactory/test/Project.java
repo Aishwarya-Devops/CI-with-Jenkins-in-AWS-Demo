@@ -3,7 +3,7 @@ package artifactory.test;
 /**
  * Hello world!
  */
-//webhook test
+//webhook test2
 public class Project {
     public static void main(String[] args) {
         new Project();
